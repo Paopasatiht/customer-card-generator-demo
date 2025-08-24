@@ -1,0 +1,6 @@
+langchain-azure-ai
+pydantic
+
+streamlit
+plotly
+pandas
