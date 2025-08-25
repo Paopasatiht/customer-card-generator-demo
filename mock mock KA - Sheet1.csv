@@ -1,0 +1,7 @@
+customer_id,persona_flag,fundcode,fundtype,external_fund,PortEngName,aum,cost,unrealized
+paopow,conservative - term fund,,Index,K-SET50,K SET 50 Index Fund,0.02342,0.002345,-0.000234235
+jj,investor - trendy,,FIFF,K-USA-A(D),K USA Equity Fund-A(D),1.1231455,1,-0.0233254
+nutdnuy,tax - advance - retired,,FIFF,K-CHINA-A(A),K China Equity Fund-A(A),0.234231,0.200234,0.000234
+prame,investor - advance,,Equity,K-VALUE-A(D),K Valued Stock Fund-A(D),12.234235,10.3245,0.523455
+paopow,conservative - term fund,,FIFF,K-USA-A(D),K USA Equity Fund-A(D),2.3456372,2.5,-0.10112314
+paopow,conservative - term fund,,Equity,K-VALUE-A(D),K Valued Stock Fund-A(D),0.004235,0.003235,0.0213
